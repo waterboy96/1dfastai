@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "1dfastai"
+  site-url: "https://waterboy96.github.io/1dfastai"
+  description: "A follow along reimplementation of the FastAI part 2 (fall 2022/spring 2023) applied to a use case of 1D FTIR data"
+  repo-branch: main
+  repo-url: "https://github.com/waterboy96/1dfastai"
